@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
         "$type": "Links, Wabbajack.Lib",
-        "image": "https://github.com/Tvirus5087/WhispersOfMara/blob/main/Splash.png",
+        "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/Splash.png",
         "readme": "https://github.com/Tvirus5087/WhispersOfMara/blob/main/README.md",
         "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara.wabbajack_8e71df5d-2fef-4b1f-a569-24e8087edd10",
         "machineURL": "Tvirus5087/WhispersOfMara",
