@@ -1,42 +1,44 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "Whispers of Mara Echoes of the Dark Lady",
-        "description": "Over 1900 mods and dark fantasy focused, this NSFW Mod list focused around 3 elements: Mara in that you can marry any NPC in the game, Legacy of the Dragon Born to carry out adventures, Serana Dead Sexy a colloboration lead by FunguyScott. Combat includes MCO SCAR and Sekiro Combat S",
-        "author": "Tvirus5087",
-        "maintainers": [
-            "github/Tvirus5087"
-        ],
-        "game": "skyrimspecialedition",
-        "tags": [
-            "nsfw",
-            "Serana",
-            "Legacy of the Dragonborn",
-            "Sexlabs",
-            "Ostim Standalone",
-            "Flowergirls",
-            "AE"
-        ],
-        "nsfw": true,
-        "image_contains_title": false,
-        "force_down": false,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/Splash.png",
-            "readme": "https://github.com/Tvirus5087/WhispersOfMara/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara.wabbajack_8e71df5d-2fef-4b1f-a569-24e8087edd10",
-            "machineURL": "Tvirus5087/WhispersOfMara",
-            "discordURL": "https://discord.gg/rpjsUcFJpQ"
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "jEnz+MeUN6I=",
-            "Size": 464695357,
-            "NumberOfArchives": 1957,
-            "SizeOfArchives": 201712412191,
-            "NumberOfInstalledFiles": 494554,
-            "SizeOfInstalledFiles": 351855398111
-        },
-        "version": "1.2.1170"
-    }
+  {
+    "title": "Whispers of Mara Echoes of the Dark Lady",
+    "description": "Over 1900 mods and dark fantasy focused, this NSFW Mod list focused around 3 elements: Mara in that you can marry any NPC in the game, Legacy of the Dragon Born to carry out adventures, Serana Dead Sexy a colloboration lead by FunguyScott. Combat includes MCO SCAR and Sekiro Combat S.",
+    "author": "Tvirus5087",
+    "maintainers": [
+      "github/tvirus5087",
+      "tvirus5087"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Serana",
+      "Legacy of the Dragonborn",
+      "Sexlabs",
+      "Ostim Standalone",
+      "Flowergirls",
+      "AE"
+    ],
+    "nsfw": true,
+    "utility_list": true,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/Splash.png",
+      "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/refs/heads/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Skyrim Modding Essentials.wabbajack_7c422547-564e-47ad-b165-59be964a3abc",
+      "machineURL": "Tvirus5087/WhispersOfMara",
+      "discordURL": "https://discord.gg/rpjsUcFJpQ"
+    },
+    "download_metadata": {
+      "Hash": "jEnz+MeUN6I=",
+      "Size": 464695357,
+      "NumberOfArchives": 1957,
+      "SizeOfArchives": 201712412191,
+      "NumberOfInstalledFiles": 494554,
+      "SizeOfInstalledFiles": 351855398111
+    },
+    "version": "1.2.1170",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-03-09T17:23:25.1125444Z",
+    "repositoryName": ""
+  }
 ]
