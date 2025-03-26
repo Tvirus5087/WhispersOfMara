@@ -24,17 +24,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/Splash.png",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/refs/heads/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim Modding Essentials.wabbajack_7c422547-564e-47ad-b165-59be964a3abc",
+      "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara%20Echoes%20of%20the%20Dark%20Lady.wabbajack_a74ee1e4-1ffc-4955-ab64-e082314b1fc1",
       "machineURL": "Tvirus5087/WhispersOfMara",
       "discordURL": "https://discord.gg/rpjsUcFJpQ"
     },
     "download_metadata": {
-      "Hash": "jEnz+MeUN6I=",
-      "Size": 464695357,
-      "NumberOfArchives": 1957,
-      "SizeOfArchives": 201712412191,
-      "NumberOfInstalledFiles": 494554,
-      "SizeOfInstalledFiles": 351855398111
+      "Hash": "WRoo0RfbvSc=",
+      "Size": 4838392742,
+      "NumberOfArchives": 1958,
+      "SizeOfArchives": 201742046850,
+      "NumberOfInstalledFiles": 494894,
+      "SizeOfInstalledFiles": 352169383052,
+      "TotalSize":553911429902
     },
     "version": "1.2.1170",
     "dateCreated": "1970-01-01T00:00:00Z",
