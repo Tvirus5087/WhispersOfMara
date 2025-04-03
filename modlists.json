@@ -9,12 +9,9 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "Serana",
-      "Legacy of the Dragonborn",
-      "Sexlabs",
-      "Ostim Standalone",
-      "Flowergirls",
-      "AE"
+      "DLC Required",
+      "Dark Fantasy",
+      "Horror"
     ],
     "nsfw": true,
     "utility_list": true,
@@ -25,7 +22,7 @@
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/Splash.png",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/refs/heads/main/README.md",
       "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara%20Echoes%20of%20the%20Dark%20Lady.wabbajack_a74ee1e4-1ffc-4955-ab64-e082314b1fc1",
-      "machineURL": "Tvirus5087/WhispersOfMara",
+      "machineURL": "WhispersOfMara",
       "discordURL": "https://discord.gg/rpjsUcFJpQ"
     },
     "download_metadata": {
