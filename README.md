@@ -2,8 +2,6 @@ This Wabbajack list is a collection of nearly 2000 mods for Skyrim Anniversary E
 
 Note: This is an NSFW (Not Safe For Work) modlist and the ANNIVERSARY EDITION IS REQUIRED.  
 
-Update for Version 5: 5 Alpha: Awaiting on Wabbajack Whitelist pull Requests. This is to ensure mods that you download are not being illegally redistributed or coming from unauthorized sources. 
-
 REQUIREMENTS:
 Skyrim Special Edition Anniversary Edition (version 1170).  You may attempt to backport at your own risk, it will not be supported. 
 .NET 8.0﻿ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.17-windows-x64-installer
