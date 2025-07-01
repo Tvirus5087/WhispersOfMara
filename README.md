@@ -6,40 +6,31 @@ Update for Version 5: 5 Alpha: Awaiting on Wabbajack Whitelist pull Requests. Th
 
 REQUIREMENTS:
 Skyrim Special Edition Anniversary Edition (version 1170).  You may attempt to backport at your own risk, it will not be supported. 
-.NET 8.0﻿ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.12-windows-x64-installer
-.Net 9.0 is optional https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-9.0.5-windows-x64-installer
+.NET 8.0﻿ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.17-windows-x64-installer
+.Net 9.0  https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.6-windows-x64-installer
 Latest Microsoft Visual C++ Redistributable https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 
 USER PREPERATION: 
 Ensure that Skyrim is installed outside of the C:\ Drive - Failure to do this may result in failure to launch as others have experienced. Move your installation from that drive if needed. 
-Ensure that all Creations from the Anniversary Edition are downloaded. These files cannot be included in the modlist.
-Ensure that their are know preexisting ENB Files or old SKSE files, especially presets.  
-Perform Wabbajack steps below. 
+Ensure that all Creations from the Anniversary Edition are downloaded. These files cannot be included in the modlist. Patches to clean them will be installed by Wabbjack - According to WJ Moderators. 
+Ensure that there are no preexisting ENB Files or old SKSE files, or plugins installed by other mod managers such as manual installations, extra creations or vortex installations. 
 
-Note if you used a previous version please use the same downloads folder to save yourself time and space! 
-Installation Guide for Wabbajack
-
-Download Wabbajack from Wabbajack.org﻿.
-Download the modlist file manually from Nexus Mods﻿. (This modlist).
-Open Wabbajack, click on "Install from Disk", and select the modlist file you downloaded.
-Choose Installation Location:
-Preferably on the same drive as Skyrim but not in the base folder of your drive (e.g., A:\1\ instead of A:\).
-You'll need at least 360GB for the Mod Organizer 2 Instance
-Set up a Resource Download Folder:
-This can be on anywhere drive, but recommend at least 207GB of space. (567GB Total)
-latest Version 670GB total at this time
-More details on installation can be found at Wabbajack's Wiki﻿.
-Download the files listed below and place them in the downloads folder you established. While technically not required, it will greatly increase success rate especially if websites are down. 
-
+Installation: 
+Determine where you will install the modlist. It should be X:\Modlistlocation where X = The same drive as skyrim. 
+Create a folder for the modlist.
+In that folder create a folder called downloads. 
+Install the predownload requirements. Links are below.  For the most part Wabbajack will prompt you if you need to download something. However predownloading will allow you to save headaches in case a file needs to come from a mirror instead of main location. If it has issues it will make an HTML file with links you can download. Ensure there are no (1) or (2) etc at the end of the file if multiples are downloaded. 
+Click Browse modlists and then select install from disk. ensure the install and download folders match what you created
+Click install
 
 Post-Installation:
-Launch the game using the SKSE launcher through Mod Organizer﻿ which is included in the list. I Have named it "Use this" 
-It will take a few minutes to load the main menu, ENB must Compile shaders and the game must load 2289 Plugins.
-Saves are Unique. 
-If you have a high resolution display (such as 4k) you should update the SSE Display Tweaks line 65 "Resolution = 2560x1440" to match your display.
-If you have low VRAM you can attempt to mitigate issues by removing the "#' on line 68 of SSE Display tweaks to enable lower resolution rendering. 
-Stay in the cave for a few minutes while MCMs and mod configurations load. After "museum list building complete" appears, you can tweak mod settings to your liking or go into MCM recorder and run the "default." Some Users did not like the bathing mechanics so auto was disabled. 
+SKSE has been renamed for M02 to "Whispers of Mara" It should be the default option and you can click run. 
+A splash screen will appear as SKSE plugins are loaded.
+Upon initial entry into the game ENB will begin building Shaders. YOUR SCREEN WILL BE BLACK DURING THIS TIME. Depending on your system, this may take some time. Test system with NVME GEN3 drive: 4 Minutes to main menu. 
+Upon Starting a new game MCM Recorder will Begin establishing default settings. If its not your first, then some mods may auto load their settings. You can ignore the MCM errors for these. 
+UBE Characters may appear naked as not all armors have UBE Patches. 
+You may also need to reopen Racemenu for UBE Characters and then Save after switching areas. 
 
 Additional Files Needed BEFORE running Wabbajack, ensure these files are in your designated downloads folder (you may be prompted but this will reduce installation issues): 
 *For all Loverslab.com files, you must login in order to download them. Download links, including those from comments, are disabled for users not logged in. Wabbajack Login does not mean web browser login. For Patreon downloads you may need a free patreon account to access the website. For Mega Downloads an account is not required (wabbjack supports anonymous logins) however if you have downloaded large amounts of data  from mega already, your download may be delayed.
@@ -49,12 +40,12 @@ Additional Files Needed BEFORE running Wabbajack, ensure these files are in your
 "Succubus Explosion Addon V1.2.7z" from https://www.loverslab.com/files/file/25402-succubus-explosion-addon/ 
 "zdd_e_se.7z" from Destynova99's comment https://www.loverslab.com/topic/194570-request-prison-torture-mod/#comment-3825801 
 "SexLabAliciaSE20250104.7z" from https://www.loverslab.com/files/file/38858-sexlab-alicia-painslut-se-january-2025/ 
-"PamaDeadlyFurniture_V3.0.3_SE_AE.zip" from https://www.loverslab.com/files/file/12508-pama%C2%B4s-deadly-furniture-scripts/ 
+"PamaDeadlyFurniture_V3.0.4_SE_AE.zip" from https://www.loverslab.com/files/file/12508-pama%C2%B4s-deadly-furniture-scripts/ 
 Schlongs of Skyrim has been replaced with The New Gentlemen﻿ following release of UBE plugin for it. 
 "TRX_futa_subsurface_diamond_2.2fixLATEST.rar" from https://www.loverslab.com/files/file/25127-diamondskin-22-for-trx-futanari-addon/ *enable the applicable addon in MCM for 3BA females only. 
 "Guro_Outfits_2_5.zip" from https://www.loverslab.com/files/file/28217-toasts-guro-outfits/ 
 Buxom Wench Yuriana 1.56Beta https://mega.nz/file/PyIlHT5T#oQlM4WE0JGkSOyCz2UvpQQsg7dHgsUbvgiFTX7ZxIlc
-Buxom Wench Yuriana 1.56 Patch and Fixes (this is free) https://www.patreon.com/file?h=95158589&m=299795319 If you need to reinstall this for whatever reason, delete the Immersive wenches Files and Plugins. It is only needed for Yuriana in modlist Version 4 and later. ﻿ The complete new version is expected to be uploaded to Nexus this year. Additionally You could put IW 2.0 below this in the mod list in order for it to overwrite. 
+Buxom Wench Yuriana 1.56 Patch and Fixes (this is free) https://www.patreon.com/file?h=95158589&m=299795319 If you need to reinstall this for whatever reason, delete the Immersive wenches Files and Plugins. It is only needed for Yuriana in modlist Version 4 and later. ﻿ The complete new version is expected to be uploaded to Nexus this year. Additionally You could put IW 2.0 below this in the mod list in order for it to overwrite in case you need to reinstall it for some reason.  
 ESL High Poly Brows   https://mega.nz/file/c4BBECpZ#T6G3QJc9kg-cEtsniiKPrSF7ITiE1eypK5f8olHRzhE
 "NamirasGoatRebornRC1.5.7z" from https://www.loverslab.com/files/file/12276-namiras-goat-reborn-sse/ 
 "Lintra the Spearmaiden SE.zip" from FunGuyScott https://www.loverslab.com/topic/203945-serana-dead-sexy-the-queen-of-screams/page/62/#comment-4368444 
@@ -67,7 +58,12 @@ https://www.loverslab.com/topic/243690-milfs-down-do-you-guys-have-them-files/#f
 https://www.loverslab.com/topic/243690-milfs-down-do-you-guys-have-them-files/#findComment-6917180 please download the interaction file from Shadowman
 ﻿﻿https://www.loverslab.com/topic/243690-milfs-down-do-you-guys-have-them-files/#findComment-6933808 Please download the pregnancy add on﻿
 Dint 999 Facepart mod (kitty ears) https://drive.google.com/file/d/1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_/view
-OPTIONAL BUT HIGHLY RECOMMENDED: UBE WEBSITE Here you can find a link to the UBE discord in the top right. There you will find additional outfit conversions to UBE, Links to outfits not on Nexus or ask questions about Ultimate Body Enhancer 2.0
+Fertility Adventures redux (requires you to be signed in to Patreon but it is free and no membership required) https://www.patreon.com/file?h=125039581&m=441011222
+"!Lilith Maidens 1.0.0.a" https://www.loverslab.com/files/file/32192-lilith-maidens/
+Welkynar Knight - UBE ADM Patch https://mega.nz/file/OPZw0TzB#Z66lmKqPjCJ3ZlWn4KbGHx8GnTOGcQkJynPynEjZfyo 
+UBE Welkynar Hussar Armor patch (requires OG from Nexus) https://www.mediafire.com/file/6jq0ixmr9n45phc/UBE_2.0_Welkynar_Hussar_Armor.7z/file
+
+OPTIONAL BUT HIGHLY RECOMMENDED: UBE WEBSITE - https://spaz490.wixsite.com/ultimatebodyenhancer -  Here you can find a link to the UBE discord in the top right. There you will find additional outfit conversions to UBE, Links to outfits not on Nexus or ask questions about Ultimate Body Enhancer 2.0, 3.0 development as well as replacement links for the Welkynars incase they get moved. 
 Note for version 5+ Change hair features to remove the horns that you start with on non-UBE characters. (Face part mod)﻿﻿
 
 #### Depricated in new versions (5+) #####
@@ -83,15 +79,17 @@ Immersive Wenches 1.7 https://mega.nz/file/Xv4xwDjS#cCJO6V4A0NZ4MBngFjanQ5sooH2y
 Immersive Wenches 2.0 on Nexus and Will download automatically. 
 Kaidan AIO 3.0.4 https://drive.google.com/file/d/1bQhAF9X4MrPUos9JoXiXjrj9p5MgzJHu/view?usp=sharing  Swapped for extended edition in version 5
 Download Maidens of Darkness https://www.loverslab.com/files/file/24311-maidens-of-darkness/ file name "MfkDBQLT" or directly from the mega mirror at https://mega.nz/file/MfkDBQLT#Lhf4Ms09nQiHtqqMTfh5Y3VJt9fZvV0w0s69foNF1TA Do to the number of Mega downloads, and free tier download restrictions, this one has been removed. Here incase you want to add it manually. ﻿
-You may wish to download Tulius SMP hair (big head) for UBE Presets. It is NOT INCLUDED. See Frau Peach UBE Preset Page It is no longer recommended to download this as the original mod was removed due to permissions related issues (including unauthorized assets). Use the Included KS hairs with Frau Peach, Tetsa, Etc ﻿﻿﻿
+
+Tulius Hairs note: Some UBE Presets list this as a requirement, due to permissions issues (on the mod author's part) it is not included. 
 
 IF ANY DOWNLOADS FAIL, YOU WILL GET A FAILED DOWNLOAD REPORT COPY THE ACTUAL LINK AND DOWNLOAD IT MANUALLY INTO YOUR DOWNLOADS FOLDER.
 
 If you would like to use this modlist as a base or "jumpstart list" be sure that the downloads folder is included where your M02 instance will be: "Instance\downloads" so that the meta files will be available to you more easily and you can remove uninstalled mods faster. 
 
 Performance Notes:
-Recommended Setup: i7/R7 new model, 12GB or more RTX 3k series or RX 6K series or later, 32GB of Ram or more, 1TB available NVME space
-Test System Specs (rev 1.4.1770) Ryzen 5 9600X, 32GB Ram, 2TB Samsung 980 Pro, Radeon RX 7800XT 16GB
-
+Recommended Setup: i7/R7 new model, 12GB or more RTX 3k series or RX 6K series or later, 32GB of Ram or more, 1TB available NVME space, 40GB Page file or "system managed" 
+Test System Specs (rev 1.5.1770) Development system: Ryzen 7 5800H, RTX 3070 8GB, 64Gb DDR 4 ram, 1TB SK Hynix NVME, default 4Gb page file 
+System B I7-14700K, 32GB DDR 5 Ram, Radeon 7800XT 16gb, 2TB 980 pro NVME, Default page file size.
+For instructions on setting up your page file I recommend Lexy's Instructions: https://lexyslotd.com/guide/preinstallation-instructions/#the-windows-page-file This is also a good guide if you want to start making your own lists or want to learn about modding. 
 Reporting Issues:
 ﻿Please use the bug reporter. When updating you can use the same download folder to save time. Unless it's something major I can fix easily expect updates to only be periodical.
