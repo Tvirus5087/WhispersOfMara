@@ -1,8 +1,8 @@
 This Wabbajack list is a collection of nearly 2000 mods for Skyrim Anniversary Edition, curated to provide an immersive and romantic experience centered around Serana from the Dawnguard DLC. Built around the popular mod 'Serana Dead Sexy: The Queen of Screams' and integrated with 'Legacy of the Dragonborn' (Legacy of the Dragonborn), it enhances Serana's appearance, dialogue, and interactions, focusing on mature and intimate themes. 
 
-Note: This is an NSFW (Not Safe For Work) modlist and the ANNIVERSARY EDITION IS REQUIRED.  
+Note:ANNIVERSARY EDITION IS REQUIRED.  Nexus Mods Membership is required (free tier ok) Available Mega download quota (10Gb or so should be fine) and it is recommended to have a Patreon account and add chiminy's free tier at https://www.patreon.com/c/CHIMinyCricket/home. YOU DO NOT NEED TO PAY FOR ANYTHING INCLUDED IN THIS MOD LIST. A nexus premium will GREATLY reduce download time. 
 
-In game guides will be provided on the nexus page: https://www.nexusmods.com/skyrimspecialedition/mods/140585
+In game guides, and additional helpful or troubleshooting information, will be provided on the nexus page: https://www.nexusmods.com/skyrimspecialedition/mods/140585
 It is highly recommended (especially if you intended to modify the list) that you review the Official Serana Dead Sexy Nexus page for requirements, updates and additional information. https://www.nexusmods.com/skyrimspecialedition/mods/73589
 
 REQUIREMENTS:
