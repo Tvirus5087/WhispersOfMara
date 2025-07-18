@@ -1,3 +1,8 @@
+Read me is pending an update for version 1.6.1170. 
+
+Please ensure you have SE version 1170, Fertility adventures redux, UBE lashvious lashes.  Serana Dead Sexy is being moved to its own list "our dark lady serana" and will be released in the near future ON NEXUS ONLY. 
+
+
 This Wabbajack list is a collection of nearly 2000 mods for Skyrim Anniversary Edition, curated to provide an immersive and romantic experience centered around Serana from the Dawnguard DLC. Built around the popular mod 'Serana Dead Sexy: The Queen of Screams' and integrated with 'Legacy of the Dragonborn' (Legacy of the Dragonborn), it enhances Serana's appearance, dialogue, and interactions, focusing on mature and intimate themes. 
 
 IF YOU DO NOT KNOW WHAT SERANA DEAD SEXY: THE QUEEN OF SCREAMS IS PLEASE VIEW THE NEXUS PAGE. IT IS NOT A SERANA REPLACER IT IS A TOTAL OVERHAUL AND WILL PLACE LOTS OF NAKED NPCS IN THE WORLD. https://www.nexusmods.com/skyrimspecialedition/mods/73589
