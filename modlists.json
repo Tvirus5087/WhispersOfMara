@@ -1,41 +1,41 @@
 [
   {
     "title": "Whispers of Mara Echoes of the Dark Lady",
-    "description": "Over 2000 mods and dark fantasy focused, this NSFW Mod list focused around 3 elements: Multiple marriages, Legacy of the Dragon Born, and Serana Dead Sexy: The Queen of Screams.",
+    "description": "Over 1500 mods and romance fantasy focused, this NSFW Mod list focused around 2 elements: Multiple marriages and Legacy of the Dragonborn",
     "author": "Tvirus5087",
     "maintainers": [
       "github/tvirus5087"
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "DLC Required",
-      "Dark Fantasy",
-      "Horror"
+      "Combat Overhaul",
+      "High Fantasy",
+      "Survival"
     ],
     "nsfw": true,
     "utility_list": true,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/SplashV5WJ.jpg",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara.wabbajack_c8fa0ebe-7e43-43c9-93b1-65ba16eb51db",
+      "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara.wabbajack_a4bf1179-d8de-4696-bfc0-a6499d081881",
       "machineURL": "WhispersOfMara",
-      "discordURL": "https://discord.gg/rpjsUcFJpQ"
+      "discordURL": "https://discord.gg/nJjTyhEECb"
     },
     "download_metadata": {
-      "Hash": "RRsdxvxnUQs=",
-      "Size": 12961953072,
-      "NumberOfArchives": 2176,
-      "SizeOfArchives": 256780622700,
-      "NumberOfInstalledFiles": 662435,
-      "SizeOfInstalledFiles": 479282192186,
-      "TotalSize":736062814886
+      "Hash": "zKQ9uIMxyyM=",
+      "Size": 13753834060,
+      "NumberOfArchives": 1710,
+      "SizeOfArchives": 227978932442,
+      "NumberOfInstalledFiles": 618238,
+      "SizeOfInstalledFiles": 400970283562,
+      "TotalSize":628949216004
     },
-    "version": "1.5.1170",
-    "dateCreated": "2025-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-01T17:25:00Z",
+    "version": "1.6.1170",
+    "dateCreated": "2025-07-01T00:00:00Z",
+    "dateUpdated": "2025-07-18T17:25:00Z",
     "repositoryName": ""
   }
 ]
