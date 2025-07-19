@@ -2,7 +2,11 @@ Read me is pending an update for version 1.6.1170.
 
 Please ensure you have SE version 1170, Fertility adventures redux, UBE lashvious lashes. Disable anniversary plugins if downloaded in M02. Also ensure .net 9 is installed and visual C++ Serana Dead Sexy is being moved to its own list "our dark lady serana" and will be released in the near future ON NEXUS ONLY. 
 
+Whispers of Mara Known issues and Work arounds:
+Black face males: It was intended to give you two options for male skins BNP and Skysight. Please disable BNP as it was intended to be included but not enabled. If necessary/ to be safe you can reinstall tng and skysight.
 
+Animals not moving: Pandora bug. Please download the fix and rerun it will be included in the next update:
+https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/releases/download/v3.2.0-beta/Pandora_Behaviour_Engine_v3.2.0-beta.zip 
 
 #############Ignore most of below unless you need links###############
 
