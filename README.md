@@ -1,4 +1,4 @@
-Read me is pending an update for version 1.6.1170. 
+Hello Everyone. That latest version on WJ uses Stock game. As I was previously using root builder, i cleared the "root" out of habit. Please Click the puzzle piece> Root Builder>Build and it should work for ya. 
 
 Please ensure you have SE version 1170, Fertility adventures redux, UBE lashvious lashes. Disable anniversary plugins if downloaded in M02. Also ensure .net 9 is installed and visual C++ Serana Dead Sexy is being moved to its own list "our dark lady serana" and will be released in the near future ON NEXUS ONLY. 
 
