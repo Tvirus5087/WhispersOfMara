@@ -6,7 +6,7 @@ For now here's the Key information:
 
 How to use Wabbajack: https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html It is important to note that downloads can fail. Simply click retry. There are numerous reasons as to why, including network issues or outages for example. Please press retry.  - Depending on the file it may take several attempts. 
 
-Requirements: Skyrim Special Edition Version 1170. If you have downgraded for other lists, installation may fail. In that case please make a back up and reinstall skyrim. Wabbajack will make copies of your plugins and patch them to make them match mine. Anniversary edition is NOT required, however having it installed is ok. 
+Requirements: Skyrim Special Edition Version 1170. STEAM BUILDS ONLY NOT COMPATIBLE WITH GOG. If you have downgraded for other lists, installation may fail. In that case please make a back up and reinstall skyrim. Wabbajack will make copies of your plugins and patch them to make them match mine. Anniversary edition is NOT required, however having it installed is ok. 
 System Requirements (recommended but feel free to download and tweak to your system)
 -Windows 10/11 
 -8GB VRAM minimum 12 or 16gb recommended - You can use VRAMr at your own accord if you do not have sufficient VRAM. Most textures are 2k but there are some 4K namely for large or important textures. 
@@ -41,7 +41,7 @@ MODIFYING THE LIST:
 I have made an effort to use mods that are well known and have large patch support, or require no patching. As such you will find a lot of Skypatcher and Base Object Swapper based mods here. This is so you can remove them at will. 
 Just be sure to verify masters. 
 
-
+Modlist Versioning Information: 1.7.1170 The first number, 1, will only change if the list is comepletly redone. The second number, 7, is will likely be the main number as it is the revision in case content is added or bugs fixed, etc. The last number 1170 indictates the game build. If Bethesda updates the game in the future look here to see if it has been updated to that build or remains on 1170. 
 Notices:
 The list is provided as is with no guarantees. I cannot and WILL NOT trouble shoot every person's issues. You are free to ask in discord and someone may respond. 
 This list is not "crash proof" save frequently.
