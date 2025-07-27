@@ -36,6 +36,12 @@ The mod list was tested 07/27/2025 following these steps on a fresh install with
 Proceed with installation
 When complete use "Whispers of Mara" to the run game. 
 
+MODIFYING THE LIST:
+100% feel free to modify the list or use it as a base for your own wabbajack list. 
+I have made an effort to use mods that are well known and have large patch support, or require no patching. As such you will find a lot of Skypatcher and Base Object Swapper based mods here. This is so you can remove them at will. 
+Just be sure to verify masters. 
+
+
 Notices:
 The list is provided as is with no guarantees. I cannot and WILL NOT trouble shoot every person's issues. You are free to ask in discord and someone may respond. 
 This list is not "crash proof" save frequently.
