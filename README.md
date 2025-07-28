@@ -42,6 +42,7 @@ I have made an effort to use mods that are well known and have large patch suppo
 Just be sure to verify masters. 
 
 Modlist Versioning Information: 1.7.1170 The first number, 1, will only change if the list is comepletly redone. The second number, 7, is will likely be the main number as it is the revision in case content is added or bugs fixed, etc. The last number 1170 indictates the game build. If Bethesda updates the game in the future look here to see if it has been updated to that build or remains on 1170. 
+
 Notices:
 The list is provided as is with no guarantees. I cannot and WILL NOT trouble shoot every person's issues. You are free to ask in discord and someone may respond. 
 This list is not "crash proof" save frequently.
