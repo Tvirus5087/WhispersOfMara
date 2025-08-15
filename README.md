@@ -8,13 +8,29 @@ Due to a misunderstanding on my part, the following must be downloaded prior to 
 4. Download "Fertility Adventures Redux.7z" into said folder. 
 5. This is a free mod that requires a free membership. Mod Author indicates they have plans to move it to the nexus and I will update the list if and when that happens. For now, it's a valuable addition.
 
+
+Features: 
+Skypatcher BOS and SPID heavy. Making modular so you customize or "Copy my homework"
+Improved Visual Examples: Pi-Cho ENB with Nat.III weathers, Skyland AIO Complex materials, Nature of the Wildlands and Wildlands renewal, Water for ENB
+Combat Examples: Blade & Blunt, SCAR, MCO, CPR, EEOS
+Location and Encounter Examples: Arena, Lawless, Lawbringer, Skyrim Realistic Conqueroring All in One (patches to work with lawless and lawbringer), Mihail Highfantasy Pack: adds over 150 new creatures and 50 areas a great alternative to SIC.  
+Immersion Examples: Skyrim's got Talent, Immmersive death cycle, Simple hunting and fishing, Skyrim Reputation including growl and sacrosacnt patches
+Perk and magic overhauls: Adamant, Mysticism - A Magic Overhaul, 360 Ward, Flames of Coldbarbour, Holy Templar magic, Storm Crown, Sacrosanct, Growl & Custom Skills framework
+Survival and Inn adjustments: Survival mode improved, Starfrost, Journeyman (allows fast travel during survival mode with packs similar to Horizon Zero series), candlehearth, all foods in the list patched with synthesis. 
+Major Mods Examples: Legacy of the Dragon Born, Beyond Reach, Vigilant, Ostim & Oromance plus, Death Consumes all
+Unique or rarely used mods: Starting up. Due to the increased difficulty of combat, this allows you to preemptively customize things for each new game (or load) that you do. In this case I have buffed health, magicka, and stamina as you will be quickly "swarmed" with enemies especially at night. 
+NPC & Appearance overhaul base(s): Modpocalypse v3: All vanilla NPCs this is flagged as ESM so that will always load before any custom replacer you have for your favorites, Exquisite NPCs uses skypatcher to greatly improve NPC appearances, simply disable them in the sky patcher files if you want your own replacer, AI Overhaul SSE, 3BA & diamond Skin, TNG/HIMBO & Skysight Ultra SOS full. 
+Expectations: Increased combat difficulty, immersive, semi-lore friendly, gorgeous dames and handsome hunks, lots of companions you can marry and most of all hundred of hours of adventures. 
+
+I will upload an excel sheet with all mods and links in github repository and on the nexus page. 
+
+
 Requirements: Skyrim Special Edition Steam Only Version 1170. If your plugins have been cleaned in your original directory please restore them using the verify function in steam. 
 Ensure that you have .net 8 & 9 installed.  
 8: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 9: https://dotnet.microsoft.com/en-us/download/dotnet/9.0
-
 Ensure the latest Visual C++ is installed: https://aka.ms/vs/17/release/vc_redist.x64.exe
-
 You should have a minimum of 8GB VRAM with 12+ recommended. 
-
 Only install on NVME drives and not on C:\
+Disclaimer: Modlist is not crash proof however it has improved with each revision. If you have consistent crashes please provide the crash log and/or detailed description of what was happening just before including character details. 
+
