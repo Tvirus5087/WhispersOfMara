@@ -94,7 +94,7 @@ A full Excel sheet with all mods and links will be uploaded to both the **GitHub
 - [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 - Minimum: 8GB VRAM (12GB+ recommended)  
 - Install only on NVMe drives (not on C:\)  
-
+- Wabbajack. Installer and use instructions can be found here: https://www.wabbajack.org/
 ---
 
 ## ⚠️ Disclaimer
