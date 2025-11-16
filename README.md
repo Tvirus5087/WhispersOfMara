@@ -12,10 +12,10 @@ As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on 
 
 ---
 
-## ⚠️ Quick Notice
+## ⚠️ Quick Notices
 Depending on your **Wabbajack** version, you may need to download **Fertility Adventures** ahead of time due to Google Drive compatibility issues, Not required in latest update during testing:  
 👉 [Download Fertility Adventures](https://drive.google.com/file/d/1pnknKi2xO2GW7G3maOp63QsWyyi6L3Og/view?usp=drive_link)
-
+Updating to version 14: Due to numerous bugs identified by mods fighting each other as well some requests by player base, lots of changes were made to underlying systems. Please consider Version 14 a Beta version. When clicking new game a "freeze" of up to one minute is normal depending on your system speed. I am working to reduce or eliminate this. 
 ---
 
 ## ✨ Features
@@ -71,8 +71,8 @@ Depending on your **Wabbajack** version, you may need to download **Fertility Ad
 
 ### 👥 NPC & Appearance Overhauls
 - Modpocalypse v3, True Sons & Men of Skyrim Refined,  Northern Women,  ColdSun's Selects, Nyrified series, AI Overhaul SSE  
-- 3BA & Diamond Skin, TNG/HIMBO, Skysight Ultra SOS full
-- UBE with Freckled Skin Delight
+- 3BA & Zhizhen Female Skin - 3BA, TNG/HIMBO, Skysight Ultra SOS full
+- UBE with Zhizhen Female Skin & Male Patch
 
 ---
 
