@@ -97,7 +97,7 @@ A full Excel sheet with all mods and links will be uploaded to both the **GitHub
 ---
 
 ## 🖥️ Requirements
-- Skyrim Special Edition (Steam only, Version 1170) YOU MUST ENSURE YOU HAVE THE CORRECT VERSION OF CURIOS IT SHOULD BE LISTED AS "ccbgssse037-curios.esl" CASE SENSITIVE. BACK UP AND DELETE TO REDOWNLOAD TO BASE SKYRIM IF NEEDED. YOU WILL CRASH OTHERWISE.
+- Skyrim Special Edition (Steam only, Version 1170) YOU MUST ENSURE YOU HAVE THE CORRECT VERSION OF CURIOS IT SHOULD BE LISTED AS "ccbgssse037-curios.esl" CASE SENSITIVE. BACK UP AND DELETE TO REDOWNLOAD TO BASE SKYRIM IF NEEDED. YOU WILL CRASH OTHERWISE. DO NOT USE THE VERIFY INSTALLATION OPTION GO INTO THE CREATION CLUB (ITS FREE). 
 - .net 7: https://dotnet.microsoft.com/en-us/download/dotnet/7.0 
 - [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)  
 - [.NET 9](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
