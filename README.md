@@ -97,13 +97,13 @@ A full Excel sheet with all mods and links will be uploaded to both the **GitHub
 ---
 
 ## 🖥️ Requirements
-- Skyrim Special Edition (Steam only, Version 1170)
+- Skyrim Special Edition (Steam only, Version 1170) YOU MUST ENSURE YOU HAVE THE CORRECT VERSION OF CURIOS IT SHOULD BE LISTED AS "ccbgssse037-curios.esl" CASE SENSITIVE. BACK UP AND DELETE TO REDOWNLOAD TO BASE SKYRIM IF NEEDED. YOU WILL CRASH OTHERWISE.
 - .net 7: https://dotnet.microsoft.com/en-us/download/dotnet/7.0 
 - [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)  
 - [.NET 9](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
 - [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 - Minimum: 8GB VRAM (12GB+ recommended)  
-- Install only on NVMe drives (not on C:\)  
+- Install only on NVMe drives (not on C:\)  #DO NOT MAKE LONG DIRECTORY NAMES DBVO VOICE FILES WILL CRASH YOUR SYSTEM WITH LONG FOLDER NAMES X:\WOM IS RECOMMENDED WHERE X IS WHATEVER YOUR DRIVE IS#
 - Wabbajack. Installer and use instructions can be found here: https://www.wabbajack.org/
 ---
 
