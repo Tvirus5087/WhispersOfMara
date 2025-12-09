@@ -20,22 +20,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/SplashV5WJ.jpg",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/README.md",
-      "download": "https://authored-files.wabbajack.org/WoM.wabbajack_56266ad1-6b93-4d11-b547-6309ddf42d49",
+      "download": "https://authored-files.wabbajack.org/WOM15.wabbajack_004d607a-f374-4028-83e9-a7a5ebeb9616",
       "machineURL": "WhispersOfMara",
       "discordURL": "https://discord.gg/nJjTyhEECb"
     },
     "download_metadata": {
-      "Hash": "btm1/1dHsT8=",
-      "Size": 25572002698,
-      "NumberOfArchives": 2490,
-      "SizeOfArchives": 301895504295,
-      "NumberOfInstalledFiles": 746876,
-      "SizeOfInstalledFiles": 426478347467,
-      "TotalSize":728373851762
+      "Hash": "5zC+BHYSLe8=",
+      "Size": 16734625858,
+      "NumberOfArchives": 2319,
+      "SizeOfArchives": 253611211782,
+      "NumberOfInstalledFiles": 675530,
+      "SizeOfInstalledFiles": 420523530471,
+      "TotalSize":674134742253
     },
-    "version": "1.14.1170",
+    "version": "1.15.1170",
     "dateCreated": "2025-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-16T21:15:00Z",
+    "dateUpdated": "2025-12-08T21:15:00Z",
     "repositoryName": ""
   }
 ]
