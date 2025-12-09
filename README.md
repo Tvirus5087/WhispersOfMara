@@ -16,7 +16,7 @@ As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on 
 Depending on your **Wabbajack** version, you may need to download **Fertility Adventures** ahead of time due to Google Drive compatibility issues, Not required in latest update during testing:  
 👉 [Download Fertility Adventures](https://drive.google.com/file/d/1pnknKi2xO2GW7G3maOp63QsWyyi6L3Og/view?usp=drive_link)
 
-👉 Updating to version 15: This Version should be considered in "alpha" state. While you can play it, it is essentially a complete rebuild and I may have forgotten some patches or something. Please place an Issue report on github. 
+👉 Updating to version 15: This Version should be considered in "Beta" state. While you can play it, it is essentially a complete rebuild and I may have forgotten some patches or something. Please place an Issue report on github.  When first launching 15 Beta (for the first time at least) it is recommended not to tab to other windows or similar. You will need to build shader cache and tabbing out during that process can leave you with an all black screen.  If that happens open task manager and wait to see the CPU use drop significantly then restart skyrim. 
 
 👉  Please login to Skyrim original game and download Rare Curios from the Creation club to ensure you have the correct version. Your original Skyrim directory should have ccbgssse037-curios.esl and ccbgssse037-curios.bsa or crashes may occur. I uploaded an image here for you to see which one: https://github.com/Tvirus5087/WhispersOfMara/blob/main/Correct%20Curios.png 
 ---
