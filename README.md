@@ -10,6 +10,9 @@ As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on 
   
 **Oromance Plus or Nether's Framework Elope Features**: ORomance Plus is an expanded relationship and romance framework built on the Ostim suite, designed to completely rework Skyrim’s limited marriage system. It allows you to pursue romances with virtually any NPC, with mechanics for dating, flings, long‑term relationships, and marriage. The mod introduces features like polygamy, break‑ups, divorces, and a revamped gift/compliment system, while also adding unique interactions for characters such as Serana and Frea. With a dedicated UI separate from vanilla dialogue, customizable MCM options, and even a Safe‑for‑Work mode, ORomance Plus offers a flexible, immersive way to role‑play love, loyalty, and desire in Skyrim’s harsh world  V15: added M.A.R.A.S - Marry Anyone Rule All Skyrim https://www.nexusmods.com/skyrimspecialedition/mods/159033
 
+**UPDATE**
+Version 15 Beta is on the Gallery. Please ensure you do not tab out while shaders are being built. UBE removed due to crashes from other mods applying it to NPCs. Collection available here with all of the files: https://www.nexusmods.com/games/skyrimspecialedition/collections/dnlg1b Collection downloader for M02 included in the list.
+Mihail High Fantasy swapped with Skyrim Immersive creatures due to frequent crashes. Some of the individual mods added. Conflict manager for Modorganizer 2 was used to remove over 40GB of duplicate files. While this reduces space, you will need to reinstall the the original mods should you need to rerun PG Patcher. 
 ---
 
 ## ⚠️ Quick Notices
@@ -29,38 +32,40 @@ Depending on your **Wabbajack** version, you may need to download **Fertility Ad
 ### 🛠️ Core Systems
 - SkyPatcher BOS & SPID heavy (modular design) To allow easier list customization
 - Oathvein UI
-- Dragon Born Voice Over - Hear a male or female voice for your character (MCM selectable) Highly Recommended to download Vampire DBVO Remastered and Vampira (female vampire) due to hash collisions, they could not be added. 
-- Main Menu Video By Power of Three Featuring A Sword in the Snow
-- Alternate Start Reborn
+- Dragon Born Voice Over - Hear a male or female voice for your character (MCM selectable) **Highly Recommended to download Vampire DBVO Remastered and Vampira (female vampire) due to hash collisions, they could not be added.** 
+- Main Menu Video By Power of Three Featuring A Sword in the Snow **You can add any one you like just load it under**
+- Alternate Start Reborn & PBR Retexture with custom True Lighting. 
 
 ### 🎨 Visual Enhancements -As of Version 15
 - CS with Azurite Weathers III HDR image spaces
-- Water for ENB patches for CS   
+- Real Water 2 and Better waters (photo realistic)  
 - Ambient Lighting Templates (cinematic presets)  
 - Windows Shadows Ultimate  
 - Patchless lighting - if You add a new worldspace add it to the Truelight Whitelist
-- ParallaxR and BendR ran on Non-PBR textures greatly enhancing appearance.
+- *ParallaxR and BendR ran on Non-PBR textures greatly enhancing appearance.* Removed in 15Beta. Expanded PBR Textures so there is no longer a need. Over 100gb in space saved.
 - PG Patcher upgrades to Complex Materials and True PBR included. 
 
 ### ⚔️ Combat Overhauls
 - Blade & Blunt,  SCAR, MCO, CPR, EEOS, Sekiro Combat II,
-- Stances NG, Eldenrim Weapon Arts, Chocolate Poise Plus,
+- Stances NG, Eldenrim Weapon Arts, Chocolate Poise Plus: **By default, the keybinds are Shift+X for Bear, X for Wolf, Ctrl+X for Hawk. **
 - Ricochet Framework, Sanguine Symphony, Dismembering Framework  
 
 ### 🏰 Locations & Encounters
 - Arena, Lawless + Lawbringer 
-- Mihail High Fantasy Pack (150+ creatures, 50+ areas)
+- *Mihail High Fantasy Pack (150+ creatures, 50+ areas)* Replaced with Skyrim immerive creatures due to frequent crash related issues. 
 - Wench Series: Immersive Wenches.
 - Colorful Magic Fixed Complete
 
 ### 🌍 Immersion
 - Skyrim’s Got Talent, Immersive Death Cycle, Simple Hunting & Fishing  
-- Skyrim Reputation (with Growl & Sacrosanct patches)
-- Bathing In Skyrim Renewed, NPCs wear Amulets of Mara 
+- Bathing In Skyrim Renewed, NPCs wear Amulets of Mara
+- Anbeegod's Follower Dialogue Expansions
+- Jayserpa's Quest Expansion, Also includes some of the Gate To Sovngarde patches as there's no reason to reinvent the wheel. 
 
 ### 🔮 Perks & Magic
 - Adamant, Mysticism, 360 Ward, Flames of Coldharbour, Holy Templar Magic,
-- Storm Crown, Better Vampires, Growl, Custom Skills Framework  
+- Storm Crown, Better Vampires, Growl, Custom Skills Framework,
+- **NEW** Biggie Traits: Customize your character towards a class type.   
 
 ### ❄️ Survival & Inns
 - Sunhelm & Frostfall, you can always enable fast travel. Additionaly you can add back Journeyman if you liked the travel packs. Makes sure it loads after Sunhelm and Frostfall.  
@@ -69,22 +74,22 @@ Depending on your **Wabbajack** version, you may need to download **Fertility Ad
 ### 📚 Major Mods
 - Legacy of the Dragonborn, Beyond Reach, Vigilant,
 - Ostim & ORomance Plus, Death Consumes All
-- Beyond Reach, Rigmor Series, 3DNPCS, Vigilant, Wyrmstooth
-- Dozens of romanceable companions
+- Beyond Reach, Rigmor Series, 3DNPCS, Vigilant, Wyrmstooth, Falskaar
+- Dozens of romanceable companions and Oromance and M.A.R.A.S
 
 ### 🧩 Unique / Rare Mods
-- Starting Up - You can preconfigure things you always change
+- Starting Up - You can preconfigure things you always change for example if you always want more health you can add the command to launch on character creation. 
 - Add perk Points with console commands. Customize balance to your liking or go "God Mode" for a quick play through.
 
 ### 👥 NPC & Appearance Overhauls
 - Modpocalypse v3, True Sons & Men of Skyrim Refined,  Northern Women,  ColdSun's Selects, Nyrified series, AI Overhaul SSE  
 - 3BA & Diamond Skin - 3BA, TNG/HIMBO, Skysight Ultra SOS full
-- UBE with Freckeled Skin Delight, FUTA options. 
+- *UBE with Freckeled Skin Delight, FUTA options.* UBE Removed in 15 Beta due to UBE textures being applied to random NPCs. For those that want it, I moved all of the original files to a collection: https://www.nexusmods.com/games/skyrimspecialedition/collections/dnlg1b you can use the "Download nexus collection" tool plugin thats included. Be sure to run Body slide. 
 
 ---
 
 ## 🎯 Expectations
-- Increased combat difficulty  
+- Increased combat difficulty yet mostly vanilla like. Nothing elaborate. Stances NG and Blade and Blunt with Chocolate Poise rebalances. By default, the keybinds are Shift+X for Bear, X for Wolf, Ctrl+X for Hawk.
 - Immersive, semi-lore-friendly experience  
 - Dozens of companions available for marriage  
 - Hundreds of hours of adventures  
@@ -102,12 +107,13 @@ A full Excel sheet with all mods and links will be uploaded to both the **GitHub
 - [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)  
 - [.NET 9](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
 - [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
-- Minimum: 8GB VRAM (12GB+ recommended)  
+- Minimum: 8GB VRAM (12GB+ recommended)
+- ini set to 1080p. If your resolution is higher, it is recommended you raise it to match your resolution. CS upscaling can render the game at lower resolutions and upscale to match if your lacking resources. 
 - Install only on NVMe drives (not on C:\)  #DO NOT MAKE LONG DIRECTORY NAMES DBVO VOICE FILES WILL CRASH YOUR SYSTEM WITH LONG FOLDER NAMES X:\WOM IS RECOMMENDED WHERE X IS WHATEVER YOUR DRIVE IS#
 - Wabbajack. Installer and use instructions can be found here: https://www.wabbajack.org/
 ---
 
 ## ⚠️ Disclaimer
-This modlist is not crash-proof, though stability improves with each revision.  
+**This modlist is not crash-proof, though stability improves with each revision.**  
 If you encounter issues please place a report on github. 
 
