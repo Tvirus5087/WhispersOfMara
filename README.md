@@ -108,7 +108,7 @@ A full Excel sheet with all mods and links will be uploaded to both the **GitHub
 - [.NET 9](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
 - [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 - Minimum: 8GB VRAM (12GB+ recommended)
-- ini set to 1080p. If your resolution is higher, it is recommended you raise it to match your resolution. CS upscaling can render the game at lower resolutions and upscale to match if your lacking resources. 
+- skyrimpref.ini set to 1080p. If your resolution is higher, it is recommended you raise it to match your resolution. CS upscaling can render the game at lower resolutions and upscale to match if you're lacking resources. 
 - Install only on NVMe drives (not on C:\)  #DO NOT MAKE LONG DIRECTORY NAMES DBVO VOICE FILES WILL CRASH YOUR SYSTEM WITH LONG FOLDER NAMES X:\WOM IS RECOMMENDED WHERE X IS WHATEVER YOUR DRIVE IS#
 - Wabbajack. Installer and use instructions can be found here: https://www.wabbajack.org/
 ---
