@@ -12,7 +12,7 @@ As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on 
 
 **UPDATE**
 Version 15 Beta is on the Gallery. Please ensure you do not tab out while shaders are being built. UBE removed due to crashes from other mods applying it to NPCs. Collection available here with all of the files: https://www.nexusmods.com/games/skyrimspecialedition/collections/dnlg1b Collection downloader for M02 included in the list.
-Mihail High Fantasy swapped with Skyrim Immersive creatures due to frequent crashes. Some of the individual mods added. Conflict manager for Mod Organizer 2 was used to remove over 40GB of duplicate files. While this reduces space, you will need to reinstall the the original mods should you need to rerun PG Patcher. 
+Mihail High Fantasy swapped with Skyrim Immersive creatures due to frequent crashes. Some of the individual mods added. Conflict manager for Mod Organizer 2 was used to remove over 40GB of duplicate files. While this reduces space, you will need to reinstall the the original mods should you need to rerun PG Patcher. DO NOT TAB OUT OR LET OTHER PROGRAMS TAKE OVER THE WINDOW AFTER THE SPLASH SCREEN. IF YOU HAVE AN ALL BLACK SCREEN YOU WILL NEED TO WAIT UNTIL SHADERS FINISH IN THE BACKGROUND AND RESTART. 
 ---
 
 ## ⚠️ Quick Notices
