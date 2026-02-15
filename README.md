@@ -20,6 +20,7 @@ Please navigate to itch.io and download the following files and place them in yo
 4.https://craftian.itch.io/patches-pandemonium: Celestine Summon Power 
 5.https://craftian.itch.io/orpheus Orpheus SEAE.zip
 6. DUE TO ITS SIZE YOU MAY NEED TO PREEMPTIVELY DOWNLOAD KAIDAN AIO 5.0.1: https://kaidanmod.com/all-in-one-installer/
+7. Ensure you set CPU affinity in MO2 It can reduce/ prevent freezing. Click the puzzle piece to do so.
 
 👉  Please login to Skyrim original game and download Rare Curios from the Creation club to ensure you have the correct version. Your original Skyrim directory should have ccbgssse037-curios.esl and ccbgssse037-curios.bsa or crashes may occur. I uploaded an image here for you to see which one: https://github.com/Tvirus5087/WhispersOfMara/blob/main/Correct%20Curios.png 
 If you do not have that one, please delete/move the plugin AND bsa and redownload from creations menu in vanilla skyrim (your main installation)
