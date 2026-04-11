@@ -4,7 +4,7 @@
 
 As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on a sweeping saga of passion and peril. Every stolen glance amid dragonfire could ignite a flame that defies the ages.
 
-*Important Notice* Due to RL things V18 will likely be the last version uploaded. I will attempt to get permission to upload some of the custom patches I made to the nexus. Per WJ agreement feel free to fork and continue on. 
+***Important Notice* Due to RL things V18 will likely be the last version uploaded. I will attempt to get permission to upload some of the custom patches I made to the nexus. Per WJ agreement feel free to fork and continue on. **
 
 - Explore **Legacy of the Dragonborn**  Legacy of the Dragonborn SSE is a massive, DLC‑sized expansion for Skyrim Special Edition that transforms the game into a museum‑driven adventure. At its heart is the Dragonborn Gallery in Solitude, a sprawling museum where you can collect and display over 4,500 unique artifacts from Skyrim and supported mods. Beyond the displays, it introduces the Explorer’s Society, a new guild you build from the ground up, complete with questlines, radiant adventures, and major story arcs. With hundreds of hours of content, Legacy weaves exploration, lore, and collection into a single experience, making it a true foundation for an entire playthrough. Relic Hunter Alternate start included so you can get straight to it. 
 
