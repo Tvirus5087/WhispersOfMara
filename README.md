@@ -1,8 +1,10 @@
-# 🌌 Whispers of Mara (Build 16)
+# 🌌 Whispers of Mara (Build 18)
 
 *In the shadowed realms of Skyrim, where ancient prophecies clash with the beating hearts of destiny, a divine murmur echoes through the frost-kissed winds—the Whispers of Mara, goddess of eternal love.*
 
 As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on a sweeping saga of passion and peril. Every stolen glance amid dragonfire could ignite a flame that defies the ages.
+
+*Important Notice* Due to RL things V18 will likely be the last version uploaded. I will attempt to get permission to upload some of the custom patches I made to the nexus. Per WJ agreement feel free to fork and continue on. 
 
 - Explore **Legacy of the Dragonborn**  Legacy of the Dragonborn SSE is a massive, DLC‑sized expansion for Skyrim Special Edition that transforms the game into a museum‑driven adventure. At its heart is the Dragonborn Gallery in Solitude, a sprawling museum where you can collect and display over 4,500 unique artifacts from Skyrim and supported mods. Beyond the displays, it introduces the Explorer’s Society, a new guild you build from the ground up, complete with questlines, radiant adventures, and major story arcs. With hundreds of hours of content, Legacy weaves exploration, lore, and collection into a single experience, making it a true foundation for an entire playthrough. Relic Hunter Alternate start included so you can get straight to it. 
 
@@ -53,7 +55,7 @@ If you do not have that one, please delete/move the plugin AND bsa and redownloa
 - Mostly 2K textures PBR> Complex Materials> Parallax> Vanilla. Meaningful items like the Dragon Claws or Elderscrolls may be 4k. Massive textures like Mountains also 4k+.
 
 ### ⚔️ Combat Overhauls
-- Blade & Blunt, BFCO-NG, Enhanced Combat AI, Know Your Enemy 2
+- Blade & Blunt, MCO/SCAR/CPR, Know Your Enemy 2
 - Stances NG, Eldenrim Weapon Arts, Chocolate Poise Plus: **By default, the keybinds are Shift+X for Bear, X for Wolf, Ctrl+X for Hawk. **
 - Ricochet Framework, Sanguine Symphony, Dismembering Framework  
 
