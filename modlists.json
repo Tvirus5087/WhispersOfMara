@@ -1,7 +1,7 @@
 [
   {
     "title": "Whispers of Mara",
-    "description": "In Skyrim’s frost‑kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond—whether relic, companion, or marriage—shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore‑focused modlists, yet without crossing into the territory of adult‑only collections—striking a balance of immersion, elegance, and desire.",
+    "description": "In Skyrim’s frost‑kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond—whether relic, companion, or marriage—shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore‑focused modlists, yet without crossing into the territory of adult‑only collections—striking a balance of immersion, elegance, and desire. NOTE THIS IS THE FINAL UPDATE",
     "author": "Tvirus5087",
     "maintainers": [
       "github/tvirus5087"
@@ -20,22 +20,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/SplashV5WJ.jpg",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/README.md",
-      "download": "https://authored-files.wabbajack.org/WOM17.wabbajack_c595f88f-82a0-4d86-8ff4-a45989abc1ca",
+      "download": "https://authored-files.wabbajack.org/WOM18.wabbajack_ed92dc3c-ea7c-479f-8317-bb0ceb081a33",
       "machineURL": "WhispersOfMara",
       "discordURL": "https://discord.gg/nJjTyhEECb"
     },
     "download_metadata": {
-      "Hash": "u/dIEjfYQVE=",
-      "Size": 7121385932,
-      "NumberOfArchives": 2386,
-      "SizeOfArchives": 301134918122,
-      "NumberOfInstalledFiles": 1004174,
-      "SizeOfInstalledFiles": 529050197985,
-      "TotalSize":830185116107
+      "Hash": "/Fx4MD+IFHk=",
+      "Size": 5497977136,
+      "NumberOfArchives": 2771,
+      "SizeOfArchives": 353044575099,
+      "NumberOfInstalledFiles": 1258154,
+      "SizeOfInstalledFiles": 658330894532,
+      "TotalSize":1011375469631
     },
-    "version": "1.16.1170",
+    "version": "1.18.1170",
     "dateCreated": "2025-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-14T17:38:00Z",
+    "dateUpdated": "2026-04-11T17:38:00Z",
     "repositoryName": ""
   }
 ]
