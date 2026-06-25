@@ -107,7 +107,7 @@ For users searching for specific community pillars, this list natively contains 
 * **Antivirus Care:** It is highly recommended to add your entire installation directory to your Antivirus white-list exclusions to prevent engine file blocking.
 * **Bug Reports:** All tracking, feedback, and technical diagnostic updates are managed strictly via our official **GitHub Repository**.
 
-### 5.Downloads from sites other than Nexus or Github (some may download automatically but here nonetheless incase you need.
+### 5.Downloads from sites other than Nexus or Github (some may download automatically) here incase you need.
   1. HPH 1.4 https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download
   2. CrossHair Event Fixes https://github.com/yeahhowaboutnooo/CrosshairRefEventsFix/releases/download/v0.0.1/CrosshairRefEventsFix_v0.0.1.7z
   3. EzPG SEAE https://craftian.itch.io/ezpg
