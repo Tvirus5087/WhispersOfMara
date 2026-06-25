@@ -107,6 +107,31 @@ For users searching for specific community pillars, this list natively contains 
 * **Antivirus Care:** It is highly recommended to add your entire installation directory to your Antivirus white-list exclusions to prevent engine file blocking.
 * **Bug Reports:** All tracking, feedback, and technical diagnostic updates are managed strictly via our official **GitHub Repository**.
 
+### 5.Downloads from sites other than Nexus or Github (some may download automatically but here nonetheless incase you need.
+  1. HPH 1.4 https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download
+  2. CrossHair Event Fixes https://github.com/yeahhowaboutnooo/CrosshairRefEventsFix/releases/download/v0.0.1/CrosshairRefEventsFix_v0.0.1.7z
+  3. EzPG SEAE https://craftian.itch.io/ezpg
+  4. Orpheus SEAE https://craftian.itch.io/orpheus
+  5. ESL High Poly Pretty Face Brows Stand Alone https://mega.nz/file/c4BBECpZ#T6G3QJc9kg-cEtsniiKPrSF7ITiE1eypK5f8olHRzhE
+  6. Mousebell Preset (Free Loverslab account Required) https://www.loverslab.com/files/file/20338-acros-mousebell-body-preset-for-cbbe-3ba/
+  7. Vayne Remastered (GG Mods free account required, Version 1) https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1264/download/8423
+  8. ColdSun's Visions Asset Pack https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1105/download/7663
+  9. CVR Follower Voices https://www.loverslab.com/files/file/18294-cvr-follower-voices
+  10. BDOR Hairs SSE 0.23 https://drive.google.com/uc?export=download&id=1B1p7p13mZWTrHCE6dsel4jRGtOsHuu7k
+  11. Morningstar Wings SMP https://mega.nz/file/PaRXiQBK#PZyU2kfU2XEVIiuT1B1C82MCb8sKv5Ozg8QY9ls1dsY
+  12. Valerica Lust of a mother SL Edition https://www.loverslab.com/files/file/27333-valerica-seranas-mom-has-got-it-goin-on-sexlab-and-flower-girl-editions/
+  13. Coldsun's Visions Coralyn Standard esp https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1204/download/8036
+  14. Ostim UBE Patch https://drive.google.com/uc?export=download&id=1oGYPBBvGB1-bG2jRbikbMbWDTE7O-syj
+  15. UBE Vanilla Armor and Clothes NG https://mega.nz/file/usMQGA4Z#lO6EYKUuYaelZ4EWOfWg8vQZiUAIGGqKQDlruCmrlWo
+  16. Armory Data Manipulator https://mega.nz/file/bwUy0TAY#On27wgYoYLPe4E9MpDq6uvaGUTv1pWuA1EZ1M93JThU
+  17. UBE Community Overlays 3 https://mega.nz/file/UVojFSzJ#ucG-wMI6FmpU1B0hVUigdkRl1jwOJ4Vsmu2TFyktcAQ
+  18. UBE Community Overlays 1 https://mega.nz/file/schAVCYI#XrsHoNBD3NTidyzIps4YnheY3v7GrnRZTkOYyG7oT7A
+  19. H2135 Fantasy Series 8 UBE https://drive.google.com/uc?export=download&id=1foHKNLKavKnDRlXd_vOkVzmBuvy41i0e
+  20. H2135 Fantasy Series 8 3BA https://www.mediafire.com/file/ghcib0sjyvc2vqx/H2135's+Fantasy+Series8+[SE]+-+3BA.7z/file
+  21. Tawoba Remastered 6.1 https://drive.google.com/uc?export=download&id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1
+  22. Nether's Elana 2.1 https://www.patreon.com/file?h=142697088&m=558575507
+  23. Nether's Elana 2.1 Approach Hotfix https://www.patreon.com/file?h=142697088&m=561858364
+
 ---
 
 ## ⚠️ Disclaimer
