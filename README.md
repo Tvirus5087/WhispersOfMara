@@ -118,7 +118,7 @@ For users searching for specific community pillars, this list natively contains 
   8. Vayne Remastered (GG Mods free account required, Version 1) https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1264/download/8423
   9. ColdSun's Visions Asset Pack https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1105/download/7663
   10. CVR Follower Voices https://www.loverslab.com/files/file/18294-cvr-follower-voices
-  11. BDOR Hairs SSE 0.23 https://drive.google.com/uc?export=download&id=1B1p7p13mZWTrHCE6dsel4jRGtOsHuu7k
+  11. BDOR Hairs SSE 0.23 https://drive.google.com/uc?export=download&id=1B1p7p13mZWTrHCE6dsel4jRGtOsHuu7k or https://www.mediafire.com/file/fra7ef7d0zptsku/%5BDint999%5D_BDOR_Hairs_SSE_0.23.7z/file
   12. Morningstar Wings SMP https://mega.nz/file/PaRXiQBK#PZyU2kfU2XEVIiuT1B1C82MCb8sKv5Ozg8QY9ls1dsY
   13. Valerica Lust of a mother SL Edition https://www.loverslab.com/files/file/27333-valerica-seranas-mom-has-got-it-goin-on-sexlab-and-flower-girl-editions/
   14. Coldsun's Visions Coralyn Standard esp https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1204/download/8036
