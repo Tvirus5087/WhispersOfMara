@@ -1,7 +1,7 @@
 [
   {
     "title": "Whispers of Mara",
-    "description": "In Skyrim’s frost‑kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond—whether relic, companion, or marriage—shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore‑focused modlists, yet without crossing into the territory of adult‑only collections—striking a balance of immersion, elegance, and desire.",
+    "description": "*Updating to fix moderated and removed nexus mods as well as now paywalled mods (Previously Free)* In Skyrim’s frost‑kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond—whether relic, companion, or marriage—shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore‑focused modlists, yet without crossing into the territory of adult‑only collections—striking a balance of immersion, elegance, and desire.",
     "author": "Tvirus5087",
     "maintainers": [
       "github/tvirus5087"
@@ -16,7 +16,7 @@
     "utility_list": true,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/WOM.png",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/README.md",
