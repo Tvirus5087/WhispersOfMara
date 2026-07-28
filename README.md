@@ -1,3 +1,6 @@
+
+**Currently in a degraded state due to removal of somemods from nexus and some formally free mods removed from their free location updating as soon as possible with alternatives**
+
 # Whispers of Mara – Redux
 ### Version 20+
 
