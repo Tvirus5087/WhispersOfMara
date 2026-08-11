@@ -1,7 +1,7 @@
 [
   {
     "title": "Whispers of Mara",
-    "description": "*Updating to fix moderated and removed nexus mods as well as now paywalled mods (Previously Free)* In Skyrim’s frost‑kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond—whether relic, companion, or marriage—shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore‑focused modlists, yet without crossing into the territory of adult‑only collections—striking a balance of immersion, elegance, and desire.",
+    "description": "In Skyrim’s frost‑kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond—whether relic, companion, or marriage—shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore‑focused modlists, yet without crossing into the territory of adult‑only collections—striking a balance of immersion, elegance, and desire.",
     "author": "Tvirus5087",
     "maintainers": [
       "github/tvirus5087"
@@ -16,26 +16,26 @@
     "utility_list": true,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/WOM.png",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara%20Redux%20with%20UBE.wabbajack_4c0b8351-c9c7-407f-8df5-6772460114d5",
+      "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara%20Redux%20with%20UBE.wabbajack_125027f7-cc68-4114-8f57-67e119b6b688",
       "machineURL": "WhispersOfMara",
       "discordURL": "https://discord.gg/nJjTyhEECb"
     },
     "download_metadata": {
-      "Hash": "7hbwNPCdM0c=",
-      "Size": 18993761747,
-      "NumberOfArchives": 2508,
-      "SizeOfArchives": 291025261732,
-      "NumberOfInstalledFiles": 1188515,
-      "SizeOfInstalledFiles": 553815073514,
-      "TotalSize":844840335246
+      "Hash": "qj7uLFrvNwo=",
+      "Size": 3429979638,
+      "NumberOfArchives": 2713,
+      "SizeOfArchives": 334739488119,
+      "NumberOfInstalledFiles": 1111811,
+      "SizeOfInstalledFiles": 581099423411,
+      "TotalSize":915838911530
     },
-    "version": "1.20.2",
+    "version": "1.21.0",
     "dateCreated": "2025-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-25T17:38:00Z",
+    "dateUpdated": "2026-08-11T17:38:00Z",
     "repositoryName": ""
   }
 ]
