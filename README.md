@@ -1,8 +1,5 @@
-
-**Currently in a degraded state due to removal of somemods from nexus and some formally free mods removed from their free location updating as soon as possible with alternatives**
-
 # Whispers of Mara – Redux
-### Version 20+
+### Version 22+
 
 > *In the shadowed realms of Skyrim, where ancient prophecies clash with the beating hearts of destiny, a divine murmur echoes through the frost-kissed winds—the Whispers of Mara, goddess of eternal love.*
 
@@ -10,6 +7,7 @@ As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on 
 
 **Whispers of Mara — Redux** is a massive, choice-driven, adult-friendly romance and adventure modlist for Skyrim Special Edition. Built on modern performance frameworks, a complete next-gen combat overhaul, and the **OStim Standalone** ecosystem, this list seamlessly weaves epic quest expansions, explicit relationship mechanics, and unparalleled visual fidelity into a single, cohesive playthrough.
 
+*Note You will need to have the Latest 1.7.104.0* in your Skyrim Directory and your curios should be lowercase - Downloaded from the in game creation club (free) You may also need to go to %localappdata%\Skyrim Special Edition\ and delete the file labeled content catalog. (You will experience crashes before the main menu if present)
 ---
 
 ## 🚀 Core Pillars & Key Features
@@ -73,7 +71,7 @@ The modlist provides a dual-profile configuration to match your visual preferenc
 
 ---
 
-## 📦 Major Discoverable Additions (From Manifest)
+## 📦 Major Discoverable Additions 
 
 For users searching for specific community pillars, this list natively contains complete structural integration for:
 * **Major Quests:** *Wyrmstooth*, *The Forgotten City*, *Falskaar*, *Sirenroot*, *Warden of the Coast*, *Helgen Reborn*, *The Second Great War*, *Civil War Overhaul Redux*.
@@ -100,7 +98,7 @@ For users searching for specific community pillars, this list natively contains 
 > **Recommended Path:** `X:\WOM` *(Where X represents your chosen storage drive).*
 
 ### 3. Creation Club & Version Integrity
-* **Base Game Platform:** Skyrim Special Edition (**Steam Only**, Version **1.6.1170**).
+* **Base Game Platform:** Skyrim Special Edition (**Steam Only**, Version **1.7.104**).
 * **The Rare Curios Check:** You must verify your Rare Curios deployment file. It is **exclusively case-sensitive**.
   * Navigate to your local Skyrim Data folder and ensure the asset file is explicitly named: `ccbgssse037-curios.esl`
   * ❌ **DO NOT use Steam's "Verify Integrity of Game Files" tool** if it is broken or missing! Doing so will force-update your game executable and shatter the list. Instead, boot vanilla Skyrim, enter the official **Creation Club Menu** (access is completely free), and download the file cleanly through the UI.
@@ -117,25 +115,17 @@ For users searching for specific community pillars, this list natively contains 
   4. EzPG SEAE https://craftian.itch.io/ezpg
   5. Orpheus SEAE https://craftian.itch.io/orpheus
   6. ESL High Poly Pretty Face Brows Stand Alone https://mega.nz/file/c4BBECpZ#T6G3QJc9kg-cEtsniiKPrSF7ITiE1eypK5f8olHRzhE
-  7. Mousebell Preset (Free Loverslab account Required) https://www.loverslab.com/files/file/20338-acros-mousebell-body-preset-for-cbbe-3ba/
-  8. Vayne Remastered (GG Mods free account required, Version 1) https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1264/download/8423
-  9. ColdSun's Visions Asset Pack https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1105/download/7663
+  7. Mousebell Preset (Free Loverslab account Required) https://www.loverslab.com/files/file/20338-acros-mousebell-body-preset-for-cbbe-3ba/63
   10. CVR Follower Voices https://www.loverslab.com/files/file/18294-cvr-follower-voices
   11. BDOR Hairs SSE 0.23 https://drive.google.com/uc?export=download&id=1B1p7p13mZWTrHCE6dsel4jRGtOsHuu7k or https://www.mediafire.com/file/fra7ef7d0zptsku/%5BDint999%5D_BDOR_Hairs_SSE_0.23.7z/file
   12. Morningstar Wings SMP https://mega.nz/file/PaRXiQBK#PZyU2kfU2XEVIiuT1B1C82MCb8sKv5Ozg8QY9ls1dsY
   13. Valerica Lust of a mother SL Edition https://www.loverslab.com/files/file/27333-valerica-seranas-mom-has-got-it-goin-on-sexlab-and-flower-girl-editions/
-  14. Coldsun's Visions Coralyn Standard esp https://ggmods.com/game/the-elder-scrolls-v-skyrim-special-edition/mod/1204/download/8036
   15. Ostim UBE Patch https://drive.google.com/uc?export=download&id=1oGYPBBvGB1-bG2jRbikbMbWDTE7O-syj
   16. UBE Vanilla Armor and Clothes NG https://mega.nz/file/usMQGA4Z#lO6EYKUuYaelZ4EWOfWg8vQZiUAIGGqKQDlruCmrlWo
   17. Armory Data Manipulator https://mega.nz/file/bwUy0TAY#On27wgYoYLPe4E9MpDq6uvaGUTv1pWuA1EZ1M93JThU
   18. UBE Community Overlays 3 https://mega.nz/file/UVojFSzJ#ucG-wMI6FmpU1B0hVUigdkRl1jwOJ4Vsmu2TFyktcAQ
   19. UBE Community Overlays 1 https://mega.nz/file/schAVCYI#XrsHoNBD3NTidyzIps4YnheY3v7GrnRZTkOYyG7oT7A
-  20. H2135 Fantasy Series 8 UBE https://drive.google.com/uc?export=download&id=1foHKNLKavKnDRlXd_vOkVzmBuvy41i0e
-  21. H2135 Fantasy Series 8 3BA https://www.mediafire.com/file/ghcib0sjyvc2vqx/H2135's+Fantasy+Series8+[SE]+-+3BA.7z/file
   22. Tawoba Remastered 6.1 https://drive.google.com/uc?export=download&id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1
-  23. Nether's Elana 2.1 https://www.patreon.com/file?h=142697088&m=558575507
-  24. Nether's Elana 2.1 Approach Hotfix https://www.patreon.com/file?h=142697088&m=561858364
-  25. IF YOU ARE HAVING ISSUES ALL COLDSUN'S MODS CAN BE DOWNLOADED MANUALLY FROM https://coldsunscreations.com/ (3BA-CBBE-TBD)
 
 ---
 
