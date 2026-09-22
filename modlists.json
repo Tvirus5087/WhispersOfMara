@@ -25,7 +25,12 @@
       "machineURL": "WhispersOfMara",
       "discordURL": "https://discord.gg/nJjTyhEECb",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "513467",
+        "slug": "8fa03z",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "HDqrcQOJ3Dg=",
