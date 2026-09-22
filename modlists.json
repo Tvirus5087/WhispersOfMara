@@ -1,12 +1,13 @@
 [
   {
     "title": "Whispers of Mara",
-    "description": "*Requires Steam Version 1.7.104 to be installed* In Skyrim’s frost‑kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond—whether relic, companion, or marriage—shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore‑focused modlists, yet without crossing into the territory of adult‑only collections—striking a balance of immersion, elegance, and desire.",
+    "description": "*Requires Steam Version 1.7.104 to be installed* In Skyrim\u2019s frost\u2011kissed shadows, the goddess of love whispers eternal vows. Whispers of Mara weaves romance, peril, and prophecy into a saga where every bond\u2014whether relic, companion, or marriage\u2014shapes destiny itself. Characters are presented with a touch more beauty and allure than in purely lore\u2011focused modlists, yet without crossing into the territory of adult\u2011only collections\u2014striking a balance of immersion, elegance, and desire.",
     "author": "Tvirus5087",
     "maintainers": [
       "github/Tvirus5087"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Combat Overhaul",
       "High Fantasy",
@@ -20,22 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/WOM.png",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Whispers%20of%20Mara%20Redux%20with%20UBE.wabbajack_e3c46dc0-746f-47ce-9af7-a6d9df11d135",
+      "download": "https://authored-files.wabbajack.org/Whispers of Mara Redux with UBE.wabbajack_c456bef9-eef2-450f-b7af-28af3471bdcd",
       "machineURL": "WhispersOfMara",
-      "discordURL": "https://discord.gg/nJjTyhEECb"
+      "discordURL": "https://discord.gg/nJjTyhEECb",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "h8qdvjP8m20=",
-      "Size": 5057174796,
+      "Hash": "HDqrcQOJ3Dg=",
+      "Size": 5057189567,
       "NumberOfArchives": 2734,
       "SizeOfArchives": 341221098538,
       "NumberOfInstalledFiles": 1330751,
-      "SizeOfInstalledFiles": 586516188736,
-      "TotalSize":927737287274
+      "SizeOfInstalledFiles": 586516188725,
+      "TotalSize": 927737287263
     },
     "version": "23.0.0",
     "dateCreated": "2025-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-21T17:38:00Z",
+    "dateUpdated": "2026-09-22T04:17:29.7574688Z",
     "repositoryName": ""
   }
 ]
