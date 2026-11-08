@@ -7,7 +7,7 @@ As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on 
 
 **Whispers of Mara — Redux** is a massive, choice-driven, adult-friendly romance and adventure modlist for Skyrim Special Edition. Built on modern performance frameworks, a complete next-gen combat overhaul, and the **OStim Standalone** ecosystem, this list seamlessly weaves epic quest expansions, explicit relationship mechanics, and unparalleled visual fidelity into a single, cohesive playthrough.
 
-*Note You will need to have the Latest 1.7.104.0* in your Skyrim Directory and your curios should be lowercase - Downloaded from the in game creation club (free) You may also need to go to %localappdata%\Skyrim Special Edition\ and delete the file labeled content catalog. (You will experience crashes before the main menu if present)
+*Note You will need to have the Latest 1.7.104.0* in your Skyrim Directory and your curios should be lowercase - Downloaded from the in game creation club (free) You may also need to go to %localappdata%\Skyrim Special Edition\ and delete the file labeled content catalog. (You will experience crashes before the main menu if present typically it shows as apprentice.esp but that is not the problem.)
 ---
 
 ## 🚀 Core Pillars & Key Features
