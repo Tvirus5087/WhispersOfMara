@@ -1,0 +1,23 @@
+###Won't Include every detail but most major changes for a quick reference####
+
+WOM 24:
+Removed Midwood, Bruma and some other mods such as Wheels of Lull to provde more capacity for romanceable companions
+Removed Anna NPCs due to a major landscape bug that make you fall into the abyss
+Removed duplicate combat or NPC multipliers for increased stability 
+Removed Mihail High Fantasy due to Frequent user crash experiences
+Added DLSS unlocked. Be sure to set it to DLSS 12 and enable neural rendering (if settings get cleared)
+Requires latest steam version installed
+Pandora updated to 5
+Custom Patches made for Fertility Mode + to reduce papyrus scipt load
+Custom Patches Made for Rigmor of Bruma and Cyrodil to allow the use of Ostim Standalone for kissing and Fade to black (uploaded to nexus with permissions from Rigmor)
+ Json included with it showing all script changes
+Created custom mod to launch a startup script to provide basic user instructions
+Community Shaders AIO Advanced skin and water options included
+Added missing Performance clothes option for Ithelia so she doesnt look messed up. 
+Added Daejanggeum and Custom Scripts that fix her biggest issues (available for everyone on nexus)
+Swapped Landscape and water fixes to the "load order friendly edition" so users can customize
+Changed alternate start from Paradigm to Alternate Perspective at Discord user request
+Updated LOTD to 6.11
+Added Recast based appearance swaps for Rigmor and Rose to remove never nude bodies for Ostim Use. 
+24.0.1 removed Yae Miko due to user reported crashes
+Ostim and multiple animations updated. 
