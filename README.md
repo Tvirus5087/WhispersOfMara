@@ -16,7 +16,7 @@ As the Dragonborn—whether valiant hero or fierce heroine—you’ll embark on 
 This list is fundamentally built to support mature themes and deep relationship immersion without sacrificing stability. 
 * **OStim Standalone Ecosystem:** Features the advanced adult animation framework fully integrated with companion interactions, dialogue, and progression systems.
 * **Adult Add-ons Included:** Pre-configured with *Amorous Adventures (OStim Edition)*, *Caught Red Handed*, *OVirginity Reflowered*, *OCum Ascended*, *OInflation*, *Blood and OStim*, and dedicated moans/sound overhauls.
-* **Dynamic Body Morphing:** Utilizes *OBody Next Generation* to ensure every NPC features unique, realistic physical diversity across the world.
+* **Dynamic Body Morphing:** Utilizes *OBody Next Generation* to ensure every NPC features unique, realistic physical diversity across the world. Dynamic Morph manager will auto assign UBE to ube characters and 3BA/Himbo to males and females with applicable bodies. 
 
 ### 🏛️ Legacy of the Dragonborn SSE
 A massive, DLC-sized expansion transforming your game into a museum-driven adventure. 
@@ -32,10 +32,11 @@ A massive, DLC-sized expansion transforming your game into a museum-driven adven
 * **Romance Overhauls:** Deep feature care for *Rigmor of Bruma/Cyrodiil*, *Serana Dialogue Add-on*, *Improved Follower Dialogue Lydia*, *Morgaine*, and *Mirai*.
 
 ---
-##**QUICK UPDATES**
+**QUICK UPDATES**
 Removed some large mods including Bruma and Midwood to reduce install size and return focus to finding romanceable companions. 
 Experimental DLSS 5 Profile utilizing DLSS unlocked from Github. Intended for RTX 5K series users only. 
 For More See the new changelog on GitHub. 
+ApocryphaRealmMenu is being used. It will take over SKSE Menus and MCM menus and auto save/auto load them. Press Esc and find it at the bottom left on the menu.
 ## 🛠️ Technical Systems & Frameworks
 
 ### Engine Modernization
@@ -47,22 +48,22 @@ For More See the new changelog on GitHub.
   * 💡 *Load Order Tip:* If your custom voice pack utilizes structural plugins (`.esp`), highlight them all in the right pane of Mod Organizer 2, right-click, and select "Send to Top" to force them to load directly beneath their master files.
 
 ### Next-Gen Combat Mechanics
-Experience visceral, responsive action built on **Blade & Blunt**, **BFCO (NG)**, and **For Honor in Skyrim**. This setup discards overly complex fighting game inputs for elegant, intuitive modern action rules:
+Experience visceral, responsive action built on **BFCO (NG)**, and **For Honor in Skyrim**. This setup discards overly complex fighting game inputs for elegant, intuitive modern action rules:
 * **Simple Inputs:** Power attacks are bound naturally to `WASD + Mouse Hold Click`.
 * **Dangerous Factions:** Features *Arena (Encounter Zones)*, *OBIS (Organized Bandits)*, and *Skyrim Realistic Conquering* to turn every dungeon into a high-stakes tactical battlefield.
-* **Tactical Balance:** Default game difficulty is locked to **Legendary**. Players are expected to group up with companions to conquer content ("Through the trenches together"). If you prefer a more casual experience, lower the native slider or use the *Starting Up* automated framework to buffer your stats on a new save.
-* **Advanced Mechanics:** Complemented by Seb263's *Ricochet Framework*, *Sanguine Symphony*, and *Dismembering Framework*.
+* **Tactical Balance:** Default game difficulty is initially set to **Master**. Players are expected to group up with companions to conquer content ("Through the trenches together"). If you prefer a more casual experience, change the difficulty in the skyrim pref ini or use the *Starting Up* automated framework to buffer your stats on a new save.
+* **Advanced Mechanics:** Complemented by Seb263's *Ricochet Framework*, *Sanguine Symphony*, and *Dismembering Framework*. Since we love sexy ladies have fun with Thicc Thighs Take Lives. 
 
 ### Progression & Magic
-* **The Simonrim Suite:** Fully integrated design overhaul featuring *Adamant* (Perks), *Mysticism* (Magic), *Starfrost* (Survival), *Gourmet* (Cooking), *Mundus* (Standing Stones), and *Pilgrim* (Religion).
+* **The Simonrim Suite:** Fully integrated design overhaul featuring *Adamant* (Perks), *Mysticism* (Magic), *Survival Mode Improved (Collinswraith)* (Survival), *Gourmet* (Cooking), *Mundus* (Standing Stones), and *Pilgrim* (Religion).
 * **Arcane Additions:** Enriched with *Apocalypse (with Optimized Scripts)*, *Holy Templar Magic*, *Kitty Tail*, and *Darenii's* structural spell packages.
 * **Alternate Paths:** Total progression refreshes for *Storm Crown* (Shouting), *Sacrosanct* (Vampirism), *Growl* (Werebears/Werewolves), and *Undeath Classical Lichdom*.
 
 ### Visuals & Lighting
-* **Community Shaders (v1.7.2):** High-fidelity modern graphical pipeline featuring Screen Space Global Illumination (SSGI), HDR image spaces, wetness effects, and advanced subsurface scattering.
-* **Advanced Material Science:** Full implementation of **Complex Materials** and **True PBR textures** (optimized baseline at 2K). Includes Community Shaders Upscaling to cleanly modernize legacy vanilla items.
+* **Community Shaders (v1.9.1):** High-fidelity modern graphical pipeline featuring Screen Space Global Illumination (SSGI), HDR image spaces, wetness effects, and advanced subsurface scattering. Optional DLSS 5 profile to try it out for RTX 5K series users. 
+* **Advanced Material Science:** Full implementation of **Complex Materials** and **True PBR textures** (optimized baseline at 2K). Includes Community Shaders Upscaling to cleanly modernize legacy vanilla items. SKSE Downsclaer also used to avoid unncessary VRAM usage. Feel free to change values for performance. 
 * **Patchless Lighting:** Powered by **True Light** (utilizing Inverse Square lighting distribution) and *Window Shadows Ultimate* alongside a built-in True Black listing to keep dungeons atmospheric.
-* **Simplicity of Sea:** Gorgeous, highly performant water architecture that completely eliminates the need for volatile, multi-mod water patching layers.
+* **Simplicity of Sea:** Gorgeous, highly performant water architecture that completely eliminates the need for volatile, multi-mod water patching layers. No esp needed at all for this with community shaders water features. 
 
 ---
 
@@ -79,21 +80,23 @@ The modlist provides a dual-profile configuration to match your visual preferenc
 For users searching for specific community pillars, this list natively contains complete structural integration for:
 * **Major Quests:** *Wyrmstooth*, *The Forgotten City*, *Falskaar*, *Sirenroot*, *Warden of the Coast*, *Helgen Reborn*, *The Second Great War*, *Civil War Overhaul Redux*.
 * **Immersion Engines:** JaySerpa's complete *Quest Expansion* series, *Immersive Wenches*, *Audio Books of Skyrim* (audio seamlessly terminates when closing a book), *Bathing in Skyrim Renewed*, *Candlehearth (Extended Inn Rentals)*.
-* **Follower Hubs:** Complete integration for *Inigo*, *Lucien*, *Xelzaz*, *Remiel*, *Gore*, *Bjorn*, *Sofia*, and *Song of the Green (Auri)*.
+* **Follower Hubs:** Complete integration for *Inigo*, *Lucien*, *Xelzaz*, *Remiel*, *Gore*, *Bjorn*, *Sofia*, and *Song of the Green (Auri)* and dozens more. 
 
 ---
 
 ## ⚠️ Requirements & Critical Installation Steps
 
 ### 1. Hardware & System Specs
-* **VRAM:** 8GB Minimum (12GB+ highly recommended).
+* **VRAM:** 8GB Minimum (12GB+ highly recommended). T's: RTX 5070 TI 16 GB
 * **Storage:** Solid State Drive mandatory (**NVME strongly recommended**). Do *not* install on your primary OS drive (`C:\`) if possible.
 * **System Frameworks:** You must install both variations of the Visual C++ runtimes and all listed .NET layers due to legacy plugin builds:
   * [.NET 7 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
   * [.NET 8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
   * [.NET 9 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+  * [https://dotnet.microsoft.com/en-us/download/dotnet/10.0] .net 10 now required. 
   * [Visual C++ Redistributable x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
   * [Visual C++ Redistributable x86](https://aka.ms/vc14/vc_redist.x86.exe)
+  * For controller users, please download a controller layout mod of you choice. If you are unsure the LoreRim option from here is recommended: https://www.nexusmods.com/skyrimspecialedition/mods/111887
 
 ### 2. Critical Path Length Restriction
 > 🔥 **CRITICAL CRASH WARNING:** The extensive voice lines utilized by the DBVO framework will cause immediate, catastrophic file-system crashes on Windows if your installation folder hierarchy path is too long. You **MUST** unpack the list into a short, root-level directory.
@@ -110,6 +113,7 @@ For users searching for specific community pillars, this list natively contains 
 * **Display Configurations:** The list is pre-configured and tested for a 2K display matrix. Adjust your personal monitor resolution layout using Mod Organizer 2's internal text editor via `skyrimpref.ini` or `SSE Display Tweaks`. **Do not use BethINI or local system documents.**
 * **Antivirus Care:** It is highly recommended to add your entire installation directory to your Antivirus white-list exclusions to prevent engine file blocking.
 * **Bug Reports:** All tracking, feedback, and technical diagnostic updates are managed strictly via our official **GitHub Repository**.
+* On the latest Versions of Windows 11 Please ensure smart screen is disabled or an exemption is in place for the entire WOMR directory. 
 
 ### 5.Downloads from sites other than Nexus or Github (some may download automatically) here incase you need.
   1. HPH 1.4 https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download
