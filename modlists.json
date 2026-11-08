@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/WOM.png",
       "readme": "https://raw.githubusercontent.com/Tvirus5087/WhispersOfMara/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Whispers of Mara Redux with UBE.wabbajack_2906f04a-9ad3-4d6c-8664-da4d1762e883",
+      "download": "https://authored-files.wabbajack.org/Whispers of Mara Redux with UBE.wabbajack_9e04b7cf-3d14-4b70-928c-659a2f07b577",
       "machineURL": "WhispersOfMara",
       "discordURL": "https://discord.gg/nJjTyhEECb",
       "websiteURL": "",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "DIi/+Di3lLk=",
-      "Size": 8394273357,
-      "NumberOfArchives": 2668,
-      "SizeOfArchives": 293238735704,
-      "NumberOfInstalledFiles": 1299576,
-      "SizeOfInstalledFiles": 565717162720,
-      "TotalSize": 858955898424
+      "Hash": "9t9gpvdW3JE=",
+      "Size": 8369587482,
+      "NumberOfArchives": 2672,
+      "SizeOfArchives": 293663958029,
+      "NumberOfInstalledFiles": 1299934,
+      "SizeOfInstalledFiles": 567346603971,
+      "TotalSize": 861010562000
     },
     "version": "24.0.0",
     "dateCreated": "2025-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-07T07:19:45.1295114Z",
+    "dateUpdated": "2026-11-08T00:27:56.1360445Z",
     "repositoryName": ""
   }
 ]
