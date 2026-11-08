@@ -1,5 +1,5 @@
 # Whispers of Mara – Redux
-### Version 22+
+### Version 24+
 
 > *In the shadowed realms of Skyrim, where ancient prophecies clash with the beating hearts of destiny, a divine murmur echoes through the frost-kissed winds—the Whispers of Mara, goddess of eternal love.*
 
@@ -32,7 +32,10 @@ A massive, DLC-sized expansion transforming your game into a museum-driven adven
 * **Romance Overhauls:** Deep feature care for *Rigmor of Bruma/Cyrodiil*, *Serana Dialogue Add-on*, *Improved Follower Dialogue Lydia*, *Morgaine*, and *Mirai*.
 
 ---
-
+##**QUICK UPDATES**
+Removed some large mods including Bruma and Midwood to reduce install size and return focus to finding romanceable companions. 
+Experimental DLSS 5 Profile utilizing DLSS unlocked from Github. Intended for RTX 5K series users only. 
+For More See the new changelog on GitHub. 
 ## 🛠️ Technical Systems & Frameworks
 
 ### Engine Modernization
